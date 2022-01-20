@@ -1,0 +1,11 @@
+﻿body {
+    padding-left: 200px;
+    padding-right: 400px;
+}
+
+label {
+    font-size: 18px;
+    color: darkmagenta;
+    width: 150px;
+    display: inline-block;
+}

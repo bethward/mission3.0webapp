@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{97AEBDE4-C467-4E6B-81E3-C6C2F236D42F}|mission2webapp">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Blah/GradeCalculator.cshtml">
+    <Files>
+      <File FileName="Models/GradeCalculatorModel.cs" Line="28" Column="2" />
+      <File FileName="Controllers/BlahController.cs" Line="19" Column="1" />
+      <File FileName="Views/Blah/GradeCalculator.cshtml" Line="14" Column="37" />
+      <File FileName="Views/Blah/Index.cshtml" Line="5" Column="5" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="6" Column="38" />
+      <File FileName="wwwroot/js/gradeCalculator.js" Line="47" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission3webapp" expanded="True">
+            <Node name="mission3webapp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True">
+                  <Node name="GradeCalculator.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="img" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mission3webapp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
